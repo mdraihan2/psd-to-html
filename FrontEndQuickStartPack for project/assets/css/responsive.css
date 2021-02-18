@@ -1,0 +1,126 @@
+/*******************************
+	All Responsive Code
+*******************************/
+
+@media (min-width: 992px) { ... }
+
+@media ( max-width: 991px) {
+	
+	
+	
+	
+	ul.navbar-nav {
+		margin: 0 auto;
+		margin-right: 0;
+	}
+	
+	.main-menu ul {
+		float: left; 
+		/* padding: 38px 0px; */
+	}
+	
+	.main-menu ul li {
+		float: left;
+		margin-left: 0px; 
+	}
+	
+	.main-menu ul li a {
+		/* color: white; */
+		text-transform: uppercase;
+		text-decoration: none;
+		display: inline-block;
+		font-family: 'Raleway', sans-serif;
+		font-weight: 500;
+		padding: 0px 0px; 
+	}
+	
+	
+	a.nav-link.active {
+		color: white !important;
+	}
+	
+	button.navbar-toggler span i {
+		color: white;
+	}
+	
+	.navbar-light .navbar-toggler {
+		color: rgba(0,0,0,.5);
+		border-color: white;
+	}
+	
+	
+	.about-left-details ul li a {
+		font-size: 10px;
+		padding: 5px;
+		width: 25px;
+		margin: 0px;
+		height: 25px;
+	}
+	
+	.about-left-details h4 {
+		font-weight: 400;
+		font-size: 15px;
+	}	
+	
+	.counter-box {
+    margin-bottom: 20px;
+}
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+@media ( max-width: 767px) {
+	
+	
+	.header-content h1 {
+		font-size: 40px;
+	}
+	.about-right {
+    margin-top: 40px;
+}
+	
+	.video-area h2 {
+    font-size: 25px;
+}
+	
+	.video-area-icon a {
+    width: 80px;
+    height: 80px;
+    line-height: 75px;
+    font-size: 35px;
+}
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media ( max-width: 576px) {
+	
+}
